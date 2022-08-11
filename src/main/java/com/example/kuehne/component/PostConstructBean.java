@@ -1,5 +1,6 @@
-package com.example.kuehne.service;
+package com.example.kuehne.component;
 
+import com.example.kuehne.service.InitialLoaderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.event.ContextRefreshedEvent;
 import org.springframework.context.event.EventListener;
